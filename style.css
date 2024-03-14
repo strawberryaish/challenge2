@@ -132,12 +132,12 @@ body {
   grid-area: box2;
 }
 .container .box-3 {
-  background-color: var(--color-neutral-lightest);
+  background-color: var(--color-primary-4);
   color: var(--color-primary-2);
   grid-area: box3;
 }
 .container .box-4 {
-  background-color: var(--color-neutral-lightest);
+  background-color: var(--color-primary-4);
   color: var(--color-primary-2);
   grid-area: box4;
 }
